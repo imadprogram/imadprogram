@@ -27,7 +27,7 @@
 - 🌱 I’m currently exploring **Advanced Backend Systems & Cloud Tech**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💡 Passionate about creating **seamless user experiences** and **robust APIs**
-- 💬 Ask me about **JavaScript, React, Node.js, and scaling apps**
+- 💬 Ask me about **JavaScript, React, and scaling apps**
 - 📫 How to reach me: **[Add your email here]**
 - ⚡ Fun fact: **I can debug an issue while making a perfect cup of coffee ☕**
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql,docker,linux,git,github,vscode,postman&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,postgresql,mysql,docker,linux,git,github,vscode,postman&theme=dark&perline=8" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/imad-elmasoudy">
+  <a href="https://www.linkedin.com/in/imad-elmasoudy-7239933a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/imad_elmasoudy">
@@ -70,7 +70,7 @@
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kimad7141@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
