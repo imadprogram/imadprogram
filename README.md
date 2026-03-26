@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Imad%20Elmasoudy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20|%20Creator%20|%20Innovator&descSize=18&descAlignY=55" width="100%" />
 </div>
 
 <h1 align="center">
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,postgresql,mysql,docker,linux,git,github,vscode,postman&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,python,figma,postgresql,mysql,docker,linux,git,github,vscode,postman&theme=dark&perline=8" />
   </a>
 </p>
 
@@ -62,16 +62,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imad-elmasoudy-7239933a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0A66C2" width="50" height="50" alt="LinkedIn" style="border-radius:50%" />
   </a>
-  <a href="https://twitter.com/imad_elmasoudy">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/imad.elmasoudy">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&logoWidth=20&labelColor=1877F2" width="50" height="50" alt="Facebook" style="border-radius:50%" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white&logoWidth=20&labelColor=5865F2" width="50" height="50" alt="Discord" style="border-radius:50%" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:kimad7141@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&logoWidth=20&labelColor=EA4335" width="50" height="50" alt="Email" style="border-radius:50%" />
   </a>
 </p>
 
