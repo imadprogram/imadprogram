@@ -62,19 +62,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imad-elmasoudy-7239933a1/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0A66C2" width="50" height="50" alt="LinkedIn" style="border-radius:50%" />
+    <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="48" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/imad.elmasoudy">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&logoWidth=20&labelColor=1877F2" width="50" height="50" alt="Facebook" style="border-radius:50%" />
+    <img src="https://img.icons8.com/fluency/48/facebook-circled.png" width="48" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white&logoWidth=20&labelColor=5865F2" width="50" height="50" alt="Discord" style="border-radius:50%" />
+    <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="48" alt="Discord" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:kimad7141@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&logoWidth=20&labelColor=EA4335" width="50" height="50" alt="Email" style="border-radius:50%" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" alt="Email" />
   </a>
 </p>
 
